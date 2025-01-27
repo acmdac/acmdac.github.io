@@ -1,0 +1,20 @@
+---
+title: ""
+about:
+  id: intro-heading
+  template: jolla
+  image: images/profilepic.jpg
+  links:
+    - icon: github
+      href: https://github.com/acmdac
+---
+
+::: {#intro-heading}
+I am a student at Macalester College pursing majors in data science and Russian studies.
+
+## Education
+
+Macalester College \| St. Paul MN
+
+Sept 2023 - present
+:::
